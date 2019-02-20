@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\bin\Debug\AnaProje.exe.config
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\bin\Debug\AnaProje.exe
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\bin\Debug\AnaProje.pdb
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.Form1.resources
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.Properties.Resources.resources
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.exe
+C:\Users\Section2\source\repos\NTDers14_1\AnaProje\obj\Debug\AnaProje.pdb
